@@ -1,0 +1,39 @@
+---
+title: "Genomic trial brings testing home for Kiwis with cancer and rare disorders"
+date: 2026-03-18
+url: https://www.beehive.govt.nz/release/genomic-trial-brings-testing-home-kiwis-cancer-and-rare-disorders
+ministers:
+  - Hon Simeon Brown
+portfolios:
+  - Health
+---
+
+New Zealanders with cancer and rare disorders will benefit from faster, locally delivered genomic testing through a new clinical pilot being launched by Health New Zealand, Health Minister Simeon Brown says.
+
+- Faster results for cancer and rare disease patients
+- First step in building a national genomics service
+- Building secure systems to manage genomic data in New Zealand
+
+“Today is a significant day for people needing genomic sequencing for certain cancers and rare disorders,” Mr Brown says.
+
+“Too many Kiwis are left waiting for answers because their genomic tests are sent overseas – delays that can affect treatment decisions or prolong years of uncertainty.
+
+“This two-year pilot will bring testing home, reducing wait times at one of the most stressful points in a patient’s life and supporting our health targets so cancer patients can receive treatment sooner and people spend less time waiting for specialist care.
+
+“It will also strengthen local expertise in genomic medicine and improve diagnostic capability, helping clinicians deliver the right care at the right time.”
+
+Health New Zealand is partnering with global genomics company Illumina to deliver the pilot, allowing advanced testing technologies to be evaluated while building capability within New Zealand’s health system.
+
+The programme will trial two complementary approaches: Whole Genome Sequencing to support the diagnosis of rare and inherited disorders, and Comprehensive Genomic Profiling to help guide cancer diagnosis and treatment decisions.
+
+“New Zealand currently spends more than $4 million each year sending over 4000 genomic tests overseas. This pilot will process more than 6000 samples over two years, including establishing new tests and consolidating existing workflows. By the end of the pilot, around half of tests currently sent offshore are expected to be completed in New Zealand.
+
+“If adopted nationally, modelling suggests this approach could generate around $5 million in operational savings over five years, while ensuring sensitive genomic data is managed safely.”
+
+The pilot will include testing for rare disorders across a range of groups, including metabolic, connective tissue, eye, hearing, and renal conditions, with work ongoing to determine the specific focus for cancer testing.
+
+Alongside clinical outcomes, the pilot will assess workforce readiness, operational efficiency, and the systems needed to support genomic data management and governance, helping inform the development of a coordinated national genomics service.
+
+“Today’s announcement comes during Rare Disorders Month, which highlights the importance of timely diagnosis for the thousands of New Zealanders living with rare conditions. I want to acknowledge everyone living with, and supporting those affected by, a rare disorder.
+
+“Our Government is focused on putting patients at the centre of the health system. This pilot is about getting Kiwis answers faster and building a genomics testing service New Zealand can be proud of,” Mr Brown says.
