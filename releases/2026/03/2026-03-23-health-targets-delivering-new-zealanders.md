@@ -1,0 +1,42 @@
+---
+title: "Health targets delivering for New Zealanders"
+date: 2026-03-23
+url: https://www.beehive.govt.nz/release/health-targets-delivering-new-zealanders
+ministers:
+  - Hon Simeon Brown
+portfolios:
+  - Health
+---
+
+Clear improvements are being delivered across all five Government health targets, with the quarterly results for October to December 2025 showing year‑on‑year gains and more Kiwis accessing care sooner, Health Minister Simeon Brown says.
+
+“Across every target, more New Zealanders received care sooner during the quarter, despite sustained pressure on hospitals and services,” Mr Brown says.
+
+“These results show tangible progress in our commitment to putting patients at the centre of the healthcare system, with improved access, timeliness, and outcomes across the health system.”
+
+Key improvements for the October to December quarter compared to the same quarter in the previous year include:
+
+- **Shorter stays in emergency departments** – 74.2 percent of patients were admitted, discharged, or transferred within six hours, up from 72.1 percent.
+- **Shorter waits for first specialist assessment** – 62.2 percent of patients were seen within four months, up from 60.6 percent.
+- **Shorter waits for elective treatment** – 64.5 percent of patients received treatment within four months, up from 59.2 percent in the same quarter 12 months prior.
+- **Faster cancer treatment** – 87.0 percent of patients received cancer treatment within 31 days of the decision to treat, up from 85.9 percent.
+- **Improved childhood immunisation** – 82.9 percent of children were fully immunised at 24 months, up from 77.0 percent.
+
+“These improvements were delivered despite significant challenges facing the health system, including disruption to planned care and appointments, a measles outbreak, and high demand in emergency departments.”
+
+More care was also delivered overall:
+
+- **179,816 first specialist assessments** were completed this quarter, up from 167,917 in the same quarter in the previous year.
+- **51,513 people** were treated from the elective waitlist, up from 46,841 in the same quarter in the previous year.
+- **4,824 patients** received their first cancer treatment, up from 4,546 in the same quarter in the previous year.
+- **12,127 children** were fully immunised at 24 months, up from 11,462 in the same quarter in the previous year.
+
+Emergency departments also saw increased demand, with 340,967 attendances this quarter compared to 332,110 in the same period last year.
+
+“Despite this higher demand, a greater proportion of patients were seen within six hours, which is a strong result for both patients and staff.”
+
+Mr Brown says the Government remains focused on continuing to fix the basics and lift performance across the healthcare system.
+
+“While there is more work to do, these results show meaningful progress for patients across the country.
+
+“I want to thank the doctors, nurses, allied health professionals, support staff, and everyone working across our health system who continued delivering care under sustained pressure. Their dedication and professionalism continue to make a real difference for the patients they care for every day,” Mr Brown says.
